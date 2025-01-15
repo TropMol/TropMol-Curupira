@@ -1,4 +1,4 @@
-Molecule ChEMBL ID,Smiles,pChEMBL Value
+Molecule ChEMBL ID,smiles,pIC50
 CHEMBL1093245,C(=N/Nc1ncnc2sc3c(c12)CCCC3)\c1cccc2ccccc12,4.89
 CHEMBL1093506,C(=N/Nc1ncnc2sc3c(c12)CCCC3)\c1ccc2ccccc2c1,4.88
 CHEMBL462108,C=CC1=C(C)[C@@H]2CC(=O)[C@H]3[C@](C)(CO)CCC[C@]3(C)[C@H]2CC1,4.44
